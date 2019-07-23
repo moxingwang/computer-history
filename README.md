@@ -111,3 +111,5 @@ EDVAC是二进制串行计算机，具有加减乘和软件除的功能。一条
 # reference
 - [冯·诺伊曼](https://baike.baidu.com/item/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BE%9D%E6%9B%BC?fromtitle=%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC&fromid=11156519)
 - [谁是计算机科学之父？他为何离奇逝世？他凭一己之力使二战缩短两年！计算机科学之父](https://www.bilibili.com/video/av30479683)
+- [妈咪说MommyTalk 科普](https://space.bilibili.com/223146252)
+- [【计算机科学速成课】[40集全/精校] - Crash Course Computer Science](https://www.bilibili.com/video/av21376839)
